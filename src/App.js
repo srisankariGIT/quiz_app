@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <div className="text-center-container">
-        <h1>QUIZAPP</h1>
+        <h1>MY QUIZAPP</h1>
       </div>
       <GameStateContext.Provider
         value={{
